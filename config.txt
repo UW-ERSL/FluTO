@@ -1,0 +1,32 @@
+[MESH]
+nelx = 8
+nely = 24
+elemSizeX = 0.125
+elemSizeY = 0.125
+
+[MATERIAL]
+mu = 1
+
+
+[TOUNN]
+numLayers = 2
+hiddenDim = 20
+outputDim = 10
+fourier_isOn = True
+fourier_minRadius = 8
+fourier_maxRadius = 960
+fourier_numTerms = 100
+
+[LOSS]
+delAlpha = 0.15
+alpha0 = 0.05
+t0 = 3
+mu = 1.01
+
+[OPTIMIZATION]
+desiredAreaFraction = 0.5
+desiredPerimeter = 100
+numEpochs = 25
+lr = 4e-4
+gradClip_isOn = True
+epochSnapShot = 10
