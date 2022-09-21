@@ -1,4 +1,4 @@
-# [FluTO: GRADED MULTISCALE FLUID TOPOLOGY OPTIMIZATION USING NEURAL NETWORKS]()
+# [FluTO: GRADED MULTISCALE FLUID TOPOLOGY OPTIMIZATION USING NEURAL NETWORKS](https://arxiv.org/abs/2209.08168)
 
 [Rahul Kumar Padhy](https://sites.google.com/view/rahulkp/home), [Aaditya Chandrasekhar*](https://aadityacs.github.io/), [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan)  
 University of Wisconsin-Madison
@@ -15,11 +15,13 @@ In particular, GMTO is implemented here using a neural-network (NN) since: (1) h
 ## Citation
 
 ```
-@article{Padhy2022FluTO,
-author = {Padhy, Rahul Kumar and Chandrasekhar, Aaditya and Suresh, Krishnan},
-title = {FluTO: GRADED MULTISCALE FLUID TOPOLOGY OPTIMIZATION USING NEURAL NETWORKS},
-journal = {},
-year={2022}
+@article{padhy2022FluTO,
+  doi = {10.48550/ARXIV.2209.08168},
+  url = {https://arxiv.org/abs/2209.08168},
+  author = {Padhy, Rahul Kumar and Chandrasekhar, Aaditya and Suresh, Krishnan},
+  title = {FluTO: Graded Multiscale Fluid Topology Optimization using Neural Networks},
+  publisher = {arXiv},
+  year = {2022}
 }
 ```
 
