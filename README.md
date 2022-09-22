@@ -1,6 +1,6 @@
 # [FluTO: GRADED MULTISCALE FLUID TOPOLOGY OPTIMIZATION USING NEURAL NETWORKS](https://arxiv.org/abs/2209.08168)
 
-[Rahul Kumar Padhy](https://sites.google.com/view/rahulkp/home), [Aaditya Chandrasekhar*](https://aadityacs.github.io/), [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan)  
+[Rahul Kumar Padhy*](https://sites.google.com/view/rahulkp/home), [Aaditya Chandrasekhar*](https://aadityacs.github.io/), [Krishnan Suresh](https://directory.engr.wisc.edu/me/faculty/suresh_krishnan)  
 University of Wisconsin-Madison
 
 
